@@ -1,1 +1,1 @@
-# CNAME2020
+iWebSec extension resources repository
